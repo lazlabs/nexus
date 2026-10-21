@@ -4,9 +4,9 @@
 
 # Nexus Suite
 
-The public landing page for **Nexus**, the launcher and status board for every [LAZLAB](https://lazlabs.github.io/lazlab/) app.
+The public landing page for **Nexus**, the launcher and status board for every [LAZLAB](https://johnlaz.github.io/lazlab/) app.
 
-**Live:** https://lazlabs.github.io/nexusapp/ &nbsp;|&nbsp; **Open the app:** [`/app`](app/)
+**Live:** https://lazlabs.github.io/nexus/ &nbsp;|&nbsp; **Open the app:** [`/app`](app/)
 
 ## What's here
 
